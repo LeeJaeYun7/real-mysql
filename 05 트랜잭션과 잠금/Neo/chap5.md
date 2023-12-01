@@ -1,6 +1,6 @@
 # 배운 것
 
-- [MySQL의 DDL은 단일 스레드로 작동 → 많은 시간 소모됨](https://www.notion.so/chap5-86afe2f571d642ce986a15af4dd1d685?pvs=21)
+- MySQL의 DDL은 단일 스레드로 작동 → 많은 시간 소모됨
 
 # 5 트랜잭션과 잠금
 
